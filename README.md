@@ -4,7 +4,7 @@ A lightweight, mobile-first static site prepared for Cloudflare Pages or a simpl
 
 ## Before launch
 
-1. Create the support mailbox `support@foxwisdom.top`.
+1. Create the support mailbox `foxwisdommedia@outlook.com`.
 2. In `script.js`, replace `PASTE_YOUR_CREEM_CHECKOUT_URL_HERE` with the live Creem checkout URL for the ebook.
 3. Review the Privacy Policy, Terms of Service, and refund wording with your actual business details.
 
